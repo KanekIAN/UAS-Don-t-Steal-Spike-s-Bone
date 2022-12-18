@@ -1,0 +1,67 @@
+h1{
+    color: steelblue;
+    font-family: fantasy;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  h2{
+    color: #e99;
+    font-family: fantasy;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+  }
+
+  .Textbox {
+    background-color: rgba(0,0,0,.2);
+    color: #fff;
+    box-sizing: border-box;
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .buttonBawah{
+    font-weight: bold;
+  }
+
+  .doggy{
+    margin: 24px;
+    width: 400px;
+    height: 400px;
+    animation: zoom-in-zoom-out 2s ease-out infinite;
+  }
+
+  .bg-sunny{
+    background-image: url('./image/blue-sky-clouds.jpg');
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+  .bg-rain{
+    background-image: url('./image/rain.png');
+    background-size: cover;
+    min-height: 100vh;
+  }
+  .bg-thunder{
+    background-image: url('./image/thunderstorm.jpg');
+    background-size: cover;
+    min-height: 100vh;
+  }
+  .bg-drizzle{
+    background-image: url('./image/drizzle.jpg');
+    background-size: cover;
+    min-height: 100vh;
+  }
+  .bg-cloudy{
+    background-image: url('./image/clody.jpg');
+    background-size: cover;
+    min-height: 100vh;
+  }
+  .bg-mist{
+    background-image: url('./image/mist.jpg');
+    background-size: cover;
+    min-height: 100vh;
+  }
